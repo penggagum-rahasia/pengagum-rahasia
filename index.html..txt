@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Dear Adinda Putri Amaliah </h1>
+        <h1>Dear Adinda Putri Amaliah</h1>
         <p>Ada sesuatu yang ingin aku sampaikan...</p>
         
         <h2>Pengakuan</h2>
@@ -59,10 +59,12 @@
         <button class="button" onclick="chooseAnswer('Aku juga suka kamu!')">Aku juga suka kamu!</button>
         <button class="button" onclick="chooseAnswer('Kita bisa ngobrol lebih lanjut?')">Kita bisa ngobrol lebih lanjut?</button>
         <button class="button" onclick="chooseAnswer('Aku butuh waktu untuk berpikir.')">Aku butuh waktu untuk berpikir.</button>
+        <br><br>
+        <button class="button" onclick="getAnswer()">Cek Jawaban</button>
     </div>
 
     <footer>
-        <p>Dibuat dengan ♥ oleh N </p>
+        <p>Dibuat dengan ♥ oleh N</p>
     </footer>
 
     <script>
