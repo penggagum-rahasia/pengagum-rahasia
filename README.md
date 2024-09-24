@@ -55,10 +55,7 @@
         <p>Sejak kita bertemu, aku mulai menyadari bahwa kamu adalah orang yang spesial. Aku suka caramu tersenyum, caramu berbicara, dan bagaimana kamu membuat hariku lebih cerah.</p>
         <p>Jadi, aku ingin jujur, aku suka kamu dan berharap kita bisa menjadi lebih dari sekadar teman.</p>
         
-        <h3>Apakah kamu juga merasa hal yang sama?</h3>
-        <button class="button" onclick="chooseAnswer('Aku juga suka kamu!')">Aku juga suka kamu!</button>
-        <button class="button" onclick="chooseAnswer('Kita bisa ngobrol lebih lanjut?')">Kita bisa ngobrol lebih lanjut?</button>
-        <button class="button" onclick="chooseAnswer('Aku butuh waktu untuk berpikir.')">Aku butuh waktu untuk berpikir.</button>
+        
         <br><br>
         <button class="button" onclick="getAnswer()">Cek Jawaban</button>
     </div>
